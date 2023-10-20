@@ -1,6 +1,6 @@
 # QUEM SOU EU 
 ## Meu perfil
-Olá Sou o João sou Estudante do 1 ano da Matéria **Pensamento Computacional**
+Olá Sou o Jaozin, sou Estudante do 2 ano da Matéria **programação**
 
 Sou novo nessa área um novato iniciante em Progamação 
 
